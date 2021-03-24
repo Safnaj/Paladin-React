@@ -1,3 +1,6 @@
+# Screenshot
+[Screen](https://github.com/Safnaj/Paladin-React/blob/master/public/ScreenShot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
