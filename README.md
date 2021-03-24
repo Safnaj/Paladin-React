@@ -1,5 +1,5 @@
 # Screenshot
-[Screen](https://github.com/Safnaj/Paladin-React/blob/master/public/ScreenShot.png)
+![Screen](https://github.com/Safnaj/Paladin-React/blob/master/public/ScreenShot.png)
 
 # Getting Started with Create React App
 
