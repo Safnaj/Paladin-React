@@ -5,7 +5,7 @@ function JobListItem(props) {
         <div className="rooster-job mt-4 px-4 py-4">
             <div className='row'>
                 <div className='col-1'>
-                    <img src={props.img} height="60" />
+                    <img src={props.img} height="60" alt="Logo" />
                 </div>
                 <div className='col-11'>
                     <h6 className="pull-right"><i className="fa fa-clock-o">&nbsp;</i>{getDateDiff(props.date)} Days Ago</h6>
